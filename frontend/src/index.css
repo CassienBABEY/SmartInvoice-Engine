@@ -1,0 +1,9 @@
+/* Reset et styles globaux minimalistes */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  min-height: 100vh;
+}
